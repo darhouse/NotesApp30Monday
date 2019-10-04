@@ -2,6 +2,8 @@ package com.example.notesapp;
 
 import android.os.Bundle;
 
+import com.example.notesapp.database.model.MyDataBase;
+import com.example.notesapp.database.model.Note;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 
